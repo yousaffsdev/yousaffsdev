@@ -12,7 +12,7 @@ XD, etc.
 ##### ✔ TailwindCSS Responsive Design
 
 ### Backend Development
-##### ✔ Node.js, PHP.
+##### ✔ Node.js, PHP, Firebase (Authentication, Realtime Databasem Firestore, Cloud Funciton), Strapi
 ##### ✔ Laravel Cashier(Stripe), Chat room, Social Login, ACL and Restful API
 ##### ✔ GraphQL using ApolloGraphql.
 
